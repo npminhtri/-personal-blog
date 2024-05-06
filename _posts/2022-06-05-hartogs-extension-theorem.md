@@ -7,7 +7,7 @@ tags:
   - Complex geometry
 ---
 
-> **_Hartogs Extension Theorem:_** Let $f$ be an analytic function on the neighborhood of the closed unit disk such that $|f| \lt 1$ on the boundary. Show that $f$ has a unique fixed point. 
+> **_Hartogs Extension Theorem:_** Let $f$ be an analytic function on the neighborhood of the closed unit disk such that $\|f\| \lt 1$ on the boundary. Show that $f$ has a unique fixed point. 
 
 The reason I wrote this note because I made a stupid mistake on MSE and provided an incorrect solution, so I am writing down it here to remind myself. 
 
