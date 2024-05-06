@@ -7,16 +7,14 @@ redirect_from:
   - /resume
 ---
 
-My full CV can be found [here](/files/WRL-CV.pdf).
+My full CV will be updated later. 
 
 ## Education
-* Ph.D in Pure Mathematics, Stony Brook University, 2019-2024
-  * Advisor: [Dzmitry Dudko](http://www.math.stonybrook.edu/~ddudko/)
-* MSci Mathematics, Imperial College London, 2015-2019
-  * Advisor: [Davoud Cheraghi](https://www.ma.imperial.ac.uk/~dcheragh/)
+* MSci Mathematics, University of Alberta, 2023-2025
+  * Advisor: [Manish Patnaik]([https://www.ma.imperial.ac.uk/~dcheragh/](https://sites.ualberta.ca/~patnaik/))
 
 ## Awards
-  * IBM Prize for Excellence in Pure Mathematics, 2019
-  * FONS Prize for Excellence in Support of Teaching, 2019
-  * G-Research Prize, 2017
-  * President's Undergraduate Scholarship, 2015-2019
+  * Second Prize, award for scientific research in 2021, for student, Ho Chi Minh University of Education - Project: Class number of real quadratic fields.
+  * Third Prize, award for scientific research in 2022, for student, Ho Chi Minh University of Education - Project: Endomorphism rings of supersingular elliptic curves over finite fields and their ternary forms.
+  * Scholarship Encouraging Study of Mathematics department in 2019-2020
+ 
