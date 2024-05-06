@@ -7,7 +7,7 @@ tags:
   - Complex geometry
 ---
 
->**_Problem_**: Let $f$ be an analytic function on the neighborhood of closed unit ball $\overline{B}(0,1)$. If $|f(z)| <1$ for $|z|=1$, show that $f$ has a unique fixed point inside $B(0,1)$. What happens if we replace the assumption $|f(z)| < 1$ with $|f(z)|\le 1$ for all $|z|=1$
+>**_Problem_**: Let $f$ be an analytic function on the neighborhood of the closed unit ball. Assume that $|f(z)| \lt 1$ on the boundary. Show that $f$ has a unique fixed point inside the unit ball.  
 
 The reason I wrote this note because I made a stupid mistake on MSE and provided an incorrect solution, so I am writing down it here to remind myself. 
 
