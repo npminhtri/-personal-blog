@@ -8,8 +8,7 @@ main:
     url: /research/
   - title: "Blog"
     url: /blog/
-  - title: "Search"
-    url: /search/
+ 
 
 blog:
   - title: Topics
