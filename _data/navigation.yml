@@ -1,22 +1,45 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-   - title: "Blog"
+    url: /teaching/
+  - title: "Vita"
+    url: /vita/
+  - title: "Research"
+    url: /research/
+  - title: "Blog"
     url: /blog/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Search"
+    url: /search/
+
+blog:
+  - title: Topics
+    children:
+      - title: "Complex Analysis"
+        url: /topics/#complex-analysis
+      - title: "Dynamical Systems"
+        url: /topics/#dynamical-systems
+      - title: "Graduate Student Life"
+        url: /topics/#graduate-student-life
+      - title: "Holomorphic Dynamics"
+        url: /topics/#holomorphic-dynamics
+      - title: "Measure Theory"
+        url: /topics/#measure-theory
+      - title: "Number Theory"
+        url: /topics/#number-theory
+      - title: "Riemann Surfaces"
+        url: /topics/#riemann-surfaces
+      - title: "Riemannian Geometry"
+        url: /topics/#riemannian-geometry
+      - title: "Several Complex Variables"
+        url: /topics/#several-complex-variables
+      - title: "Topology"
+        url: /topics/#topology
+
+  - title: year
+    children:
+      - title: "2020"
+        url: /blog/#2020
+      - title: "2021"
+        url: /blog/#2021
+      - title: "2022"
+        url: /blog/#2022
