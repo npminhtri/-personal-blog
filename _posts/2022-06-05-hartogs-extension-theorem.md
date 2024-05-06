@@ -1,10 +1,9 @@
 ---
-title: 'Hartogs extension theorem'
+title: 'ON A COMPLEX ANALYSIS PROBLEM'
 date: 2022-06-05
 permalink: /posts/2022/06/hartogs-extension-theorem
 tags:
-  - Several complex variables
-  - Complex geometry
+  - Function of one complex variable
 ---
 
 > **_Hartogs Extension Theorem:_** Let $f$ be an analytic function on the neighborhood of the closed unit disk such that $\|f\| \lt 1$ on the boundary. Show that $f$ has a unique fixed point. 
@@ -22,9 +21,9 @@ on the curve $\gamma = \partial B(0,1)$. By Rouche's theorem, $\psi(z)$ and $z$ 
 
 What happens if we instead have $\|f(z)\| \le 1$? In this case we then are able to show that the number of fixed points is either 0 or 1. The upper bound of the number of point follows from the following lemma:
 
-Lemma: Let $f: B(0,1) \to B(0,1)$ be an analytic map. If $f$ has two fixed point, then $f$ is identity map. 
+> **Lemma:** Let $f: B(0,1) \to B(0,1)$ be an analytic map. If $f$ has two fixed point, then $f$ is identity map. 
 
-Proof:  Assume that $f(a)=a \in B(0,1)$. Then we consider the map
+**Proof**:  Assume that $f(a)=a \in B(0,1)$. Then we consider the map
 
 $$
 \phi_a(z) = \dfrac{a-z}{1-\overline{a}z}
