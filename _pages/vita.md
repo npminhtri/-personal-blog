@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My full CV will be updated later. 
+My full CV can be found here [CV](https://drive.google.com/file/d/1T3_uYUlHhXMQt87anC3yXYOn4Jql8lMF/view?usp=sharing)
 
 ## Education
 * MSci Mathematics, University of Alberta, 2023-2025
