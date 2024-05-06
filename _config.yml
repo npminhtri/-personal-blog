@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "milet.png"
+  avatar           : "milet.jpg"
   name             : "Tri Nguyen"
   pronouns         : # example: "she/her"  
   bio              : "I am in love with a Japanese singer - Milet, so my avatar is her smile =))"
