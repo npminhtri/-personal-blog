@@ -9,7 +9,7 @@ tags:
 
 Hartogs extension theorem is one of the few fundamental results in analytic continuation that distinguishes the study of several complex variables and that of one complex variable. While holomorphic functions in one variable can have poles and isolated singularities, the set of singularities of a holomorphic function in several complex variables cannot be isolated and must satisfy some topological conditions.
 
-> **_Hartogs Extension Theorem:_** Let $D$ be a domain (non-empty connected open set) in $\mathbb{C}^n$ for $n\geq 2$ and let $K$ be a compact subset of $D$ such that $D\backslash K$ is connected. Then, every holomorphic function $f: D\backslash K \to \mathbb{C}$ extends uniquely to a holomorphic function on $D$.
+> **_Hartogs Extension Theorem:_** Let $f$ be an analytic function on the neighborhood of closed unit ball $\overline{B}(0,1)$. If $|f(z)| <1$ for $|z|=1$, show that $f$ has a unique fixed point inside $B(0,1)$? What happens if we replace the assumption $|f(z)| <1$ with $|f(z)|\le 1$ for all $|z|=1$?
 
 Hartogs extension theorem immediately tells us that in several complex variables, holomorphic functions cannot have isolated non-removable singularities! I would like to emphasise that this extension theorem is special for dimensions $2$ or higher. In one dimension, we can construct straightforward counterexamples, such as $\frac{1}{z}$ or general holomorphic functions with isolated singularities. Another immediate consequence is the following.
 
