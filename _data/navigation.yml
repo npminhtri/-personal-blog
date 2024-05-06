@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Teaching"
-    url: /teaching/
+    url: teaching/
   - title: "Vita"
-    url: /vita/
+    url: vita/
   - title: "Research"
-    url: /research/
+    url: research/
   - title: "Blog"
-    url: /blog/
+    url: blog/
  
 
 blog:
   - title: Topics
     children:
       - title: "Complex Analysis"
-        url: /topics/#complex-analysis
+        url: topics/#complex-analysis
       - title: "Dynamical Systems"
-        url: /topics/#dynamical-systems
+        url: topics/#dynamical-systems
       - title: "Graduate Student Life"
         url: /topics/#graduate-student-life
       - title: "Holomorphic Dynamics"
