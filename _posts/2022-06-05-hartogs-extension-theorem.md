@@ -1,10 +1,10 @@
 ---
 title: 'ON A COMPLEX ANALYSIS PROBLEM'
 date: 2022-06-05
-permalink: /posts/2022/06/hartogs-extension-theorem
-tags:
+permalink: /posts/2022/06/complex-homework
+categories:
   - Complex Analysis
-  - Riemann surfaces
+  
 ---
 
 > **_Problem:_** Let $f$ be an analytic function on the neighborhood of the closed unit disk such that $\|f\| \lt 1$ on the boundary. Show that $f$ has a unique fixed point. 
