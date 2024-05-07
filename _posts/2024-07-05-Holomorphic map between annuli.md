@@ -8,7 +8,7 @@ categories:
 ---
 
 First, we define an annulus in a complex plane
->**Definition:** An annulus in $\mathbb{C}$ is the set $$A(r,R) = \left\lbrace z \in \mathbb{C}: r < \left|z\right| <R \right\rbrace$$
+>**Definition:** An annulus in $\mathbb{C}$ is the set $$A(r,R) = \left\lbrace z \in \mathbb{C}: r < \|z\| <R \right\rbrace$$
 
 Given two annuli $A_1 = A(r_1, R_1)$ and $A_2 = A(r_2, R_2)$, one may ask under which conditions
 that two annuli are biholomorphic. It turns out that in a complex plane, the biholomorphic relation is defined using only
@@ -56,7 +56,7 @@ First suppose that $\dfrac{R_1}{R_2} = \dfrac{r_1}{r_2} =k$. Then clearly the li
   $$0 = \dfrac{\partial g}{\partial z} = \dfrac{f'(z)}{f(z)}-\dfrac{\alpha}{z}.$$
 
   Let $\gamma = \gamma(t)= ce^{it}$ for some $1<c<R_1$. Then we have
-  
+
   $$\alpha = \dfrac{1}{2\pi i}\int_{\gamma}\dfrac{\alpha}{z} =\dfrac{1}{2\pi i}\int_{\gamma}\dfrac{f'(z)}{f(z)} $$
 
   By the Argument Principle, $\alpha$ must be an integer. A consequence is that
