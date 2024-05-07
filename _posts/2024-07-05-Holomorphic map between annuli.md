@@ -41,8 +41,10 @@ First suppose that $\dfrac{R_1}{R_2} = \dfrac{r_1}{r_2} =k$. Then clearly the li
   **Claim:** $\|f(z_n)\| \to R_2$ whenever $\|z_n\| \to R_1$.
 
   Now set $\alpha = \log(R_1)/\log(R_2)$ and define a new function $g \colon A_1 \to \mathbb{R}$ by
+
   $$g(z) = \log\|f(z)\|^2 - \alpha\log\|z\|^2 = 2(\log\|f(z)\| - \alpha\log\|z\|).$$
   This is a harmonic function since $\log(\|f\|^2)$ is a harmonic over $\mathbb{C}$, where $f$ is a non vanishing analytic function. Indeed, we have
+
   $$\Delta\left(\log(\|f\|^2)\right)= \Delta\left(\log(f)+\log(\overline{f})\right)
     = 4\dfrac{\partial}{\partial z}\dfrac{\partial}{\partial \overline{z}}\log(f)+4\dfrac{\partial}{\partial \overline{z}}\dfrac{\partial}{\partial z}\log(\overline{f})=0$$
 
@@ -56,6 +58,7 @@ First suppose that $\dfrac{R_1}{R_2} = \dfrac{r_1}{r_2} =k$. Then clearly the li
   $$\alpha = \dfrac{1}{2\pi i}\int_{\gamma}\dfrac{\alpha}{z} =\dfrac{1}{2\pi i}\int_{\gamma}\dfrac{f'(z)}{f(z)} $$
 
   By the Argument Principle, $\alpha$ must be an integer. A consequence is that
+  
   $$\dfrac{d}{dz}(z^{-\alpha}f(z))= -\alpha z^{-\alpha-1}f(z)+z^{-\alpha}f'(z) = z^{-\alpha-1}(zf'(z)-\alpha f(z))=0.$$
 
-  This forces $z^{-\alpha}f(z)=K$ for some constant $K$ on $A_1$. Thus $f(z)=Kz^{\alpha}$. As f is injective, $\alpha=1$ by the fundamental theorem of Algebra.
+  This forces $z^{-\alpha}f(z)=K$ for some constant $K$ on $A_1$. Thus $f(z)=Kz^{\alpha}$. As f is injective, $\alpha=1$ by the fundamental theorem of Algebra. $\square$
