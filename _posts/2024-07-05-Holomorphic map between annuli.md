@@ -14,7 +14,7 @@ Given two annuli $A_1 = A(r_1, R_1)$ and $A_2 = A(r_2, R_2)$, one may ask under 
 that two annuli are biholomorphic. It turns out that in a complex plane, the biholomorphic relation is defined using only
 the ratio $r_1/r_2$ and $R_1/R_2$. This is shown in the following theorem
 
->**Theorem: $A_1$ is biholomorphic to $A_2$ if and only if $\dfrac{R_1}{r_1} = \dfrac{R_2}{r_2}$.**
+>**Theorem:** $A_1$ is biholomorphic to $A_2$ if and only if $\dfrac{R_1}{r_1} = \dfrac{R_2}{r_2}$.
 
 **Proof:**
 
