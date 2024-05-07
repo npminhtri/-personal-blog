@@ -10,7 +10,7 @@ redirect_from:
 My full CV can be found here [CV](https://drive.google.com/file/d/1T3_uYUlHhXMQt87anC3yXYOn4Jql8lMF/view?usp=sharing)
 
 ## Education
-* MSci Mathematics, University of Alberta, 2023-2025
+* MSci Mathematics, University of Alberta, 2023-present
   * Advisor: [Manish Patnaik](https://sites.ualberta.ca/~patnaik/)
 
 ## Awards
