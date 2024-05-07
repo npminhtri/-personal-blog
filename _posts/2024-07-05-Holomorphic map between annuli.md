@@ -56,6 +56,7 @@ First suppose that $\dfrac{R_1}{R_2} = \dfrac{r_1}{r_2} =k$. Then clearly the li
   $$0 = \dfrac{\partial g}{\partial z} = \dfrac{f'(z)}{f(z)}-\dfrac{\alpha}{z}.$$
 
   Let $\gamma = \gamma(t)= ce^{it}$ for some $1<c<R_1$. Then we have
+  
   $$\alpha = \dfrac{1}{2\pi i}\int_{\gamma}\dfrac{\alpha}{z} =\dfrac{1}{2\pi i}\int_{\gamma}\dfrac{f'(z)}{f(z)} $$
 
   By the Argument Principle, $\alpha$ must be an integer. A consequence is that
