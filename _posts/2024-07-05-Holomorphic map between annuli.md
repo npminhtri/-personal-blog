@@ -8,7 +8,7 @@ categories:
 ---
 
 First, we define an annulus in a complex plane
->**Definition:** An annulus in $\mathbb{C}$ is the set $$A(r,R) = \left\lbrace z \in \mathbb{C}: r < \|z\| <R \right\rbrace$$
+>**Definition:** An annulus in $\mathbb{C}$ is the set $$A(r,R) = \left\lbrace z \in \mathbb{C}: r < \lvert z\rvert <R \right\rbrace$$
 
 Given two annuli $A_1 = A(r_1, R_1)$ and $A_2 = A(r_2, R_2)$, one may ask under which conditions
 that two annuli are biholomorphic. It turns out that in a complex plane, the biholomorphic relation is defined using only
