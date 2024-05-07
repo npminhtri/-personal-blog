@@ -1,6 +1,6 @@
 ---
 title: 'ON A COMPLEX ANALYSIS PROBLEM'
-date: 2022-06-05
+date: 2024-06-05
 permalink: /posts/2022/06/complex-homework
 categories:
   - Complex Analysis
