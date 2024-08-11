@@ -11,7 +11,7 @@ In July, I am trying to self study some scheme theory to keep up with my peers i
 
 The sources of the note is from here: [Scheme course](https://courses.maths.ox.ac.uk/course/view.php?id=5073)
 
-<span style="color:YELLOW">SUMMARY OF AFFINE VARIETIES</span>.
+<span style="color:blue">SUMMARY OF AFFINE VARIETIES</span>.
 
 We know that over algebraic closed field $k$, we have the corresponding
 
