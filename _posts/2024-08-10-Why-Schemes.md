@@ -11,5 +11,8 @@ In July, I am trying to self study some scheme theory to keep up with my peers i
 
 The sources of the note is from here: [Scheme course](https://courses.maths.ox.ac.uk/course/view.php?id=5073)
 
-L
+<span style="color:YELLOW">SUMMARY OF AFFINE VARIETIES</span>.
+
+We know that over algebric closed 
+
 
