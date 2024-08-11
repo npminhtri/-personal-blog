@@ -13,6 +13,8 @@ The sources of the note is from here: [Scheme course](https://courses.maths.ox.a
 
 <span style="color:YELLOW">SUMMARY OF AFFINE VARIETIES</span>.
 
-We know that over algebric closed 
+We know that over algebraic closed field $k$, we have the corresponding
+
+$$(\text{ subsets of } k^n \text{ cut out by a set of polynomials})/\cong \quad \Leftrightarrow (\text{finitely generated reduced $k-$ algebra}) $$
 
 
