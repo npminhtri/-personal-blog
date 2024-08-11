@@ -1,6 +1,6 @@
 ---
 title: 'HOLOMORPHIC MAP BETWEEN ANNULI'
-date: 2024-05-07
+date: 2024-05-06
 permalink: /posts/2022/06/complex-annuli
 categories:
   - Complex Analysis
