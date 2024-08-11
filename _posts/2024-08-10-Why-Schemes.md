@@ -15,6 +15,8 @@ The sources of the note is from here: [Scheme course](https://courses.maths.ox.a
 
 We know that over algebraic closed field $k$, we have the corresponding
 
-$$(\text{ subsets of } k^n \text{ cut out by a set of polynomials})/\cong \quad \Leftrightarrow (\text{finitely generated reduced $k-$ algebra}) $$
+$$\begin{split}(\text{ subsets of } k^n \text{ cut out by a set of polynomials})/\cong  &\leftrightarrow (\text{finitely generated reduced $k-$ algebra}) \\
+\textcolor{yellow}{geometry} &\leftrightarrow  \textcolor{yellow}{algebra}\end{split}
+$$
 
 
