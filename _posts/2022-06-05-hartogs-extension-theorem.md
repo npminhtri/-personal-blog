@@ -14,7 +14,7 @@ The reason I wrote this note because I made a stupid mistake on MSE and provided
 
 **Proof**: 
 
-Consider the function $\psi(z) = f(z)-z$. Then clearly we have 
+Consider the function $\phi(z) = f(z)-z$. Then clearly we have 
 
 $$|\psi(z)+z| = |f(z)-z+z|= |f(z)| < 1 = |z|$$
 
